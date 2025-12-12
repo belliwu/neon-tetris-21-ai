@@ -1,0 +1,5 @@
+{
+  "name": "neon-tetris",
+  "description": "A high-performance, cyberpunk-themed Tetris web application with a custom 21-row grid depth and AI-powered gameplay commentary using Google Gemini.",
+  "requestFramePermissions": []
+}
